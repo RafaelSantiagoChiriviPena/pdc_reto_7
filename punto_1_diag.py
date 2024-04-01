@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
 A(inicio)
 B[i = 1]
@@ -15,3 +16,4 @@ C --si--> G
 D --> E
 E --> F
 F --> C
+```
