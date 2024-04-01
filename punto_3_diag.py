@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
 A(inicio)
 B[Leer n]
@@ -22,3 +23,4 @@ J -- si --> G
 G --> H
 H --> J
 J -- no --> I
+```
